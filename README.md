@@ -1,6 +1,6 @@
 # project-planner
 
-Task application using Vuejs and JSon server
+Task application using Vuejs and Json server
 
 ## Project setup
 ```
