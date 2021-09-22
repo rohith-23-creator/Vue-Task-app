@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create new website ",
+      "details": "create my portfolio website",
+      "completed": false
+    },
+    {
+      "title": "Post  a story",
+      "details": "Post story about today's  experience",
+      "completed": true,
+      "id": 4
+    },
+    {
+      "title": "Make changes to site",
+      "details": "Make the changes as per request received",
+      "completed": false,
+      "id": 5
+    },
+    {
+      "title": "Send a Email",
+      "details": "Send client a email",
+      "completed": true,
+      "id": 6
+    }
+  ]
+}
