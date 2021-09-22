@@ -1,5 +1,7 @@
 # project-planner
 
+Task application using Vuejs and JSon server
+
 ## Project setup
 ```
 npm install
