@@ -22,6 +22,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 # Output :
 
-![](taskform.png)
+![](tasksform.png)
 
-![](taskview.png)
+![](tasksview.png)
